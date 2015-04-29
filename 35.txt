@@ -11,7 +11,7 @@ Title: The Time Machine
 Author: H. G. (Herbert George) Wells
 
 Release Date: October 2, 2004 [EBook #35]
-[Last updated: August 21, 2011]
+[Last updated: October 3, 2014]
 
 Language: English
 
@@ -31,6 +31,7 @@ Character set encoding: ASCII
 
 
 The Time Machine, by H. G. Wells [1898]
+
 
 
 
@@ -54,8 +55,8 @@ and his fecundity.
 ideas that are almost universally accepted. The geometry, for
 instance, they taught you at school is founded on a misconception.'
 
-'Is not that rather a large thing to expect us to begin upon?' said
-Filby, an argumentative person with red hair.
+'Is not that rather a large thing to expect us to begin upon?'
+said Filby, an argumentative person with red hair.
 
 'I do not mean to ask you to accept anything without reasonable
 ground for it. You will soon admit as much as I need from you. You
@@ -408,6 +409,7 @@ winked at me solemnly.
 
 
 
+
 II
 
 
@@ -612,6 +614,7 @@ Time Traveller's face.
 
 
 
+
 III
 
 
@@ -809,6 +812,7 @@ indescribably frail. His flushed face reminded me of the more
 beautiful kind of consumptive--that hectic beauty of which we used
 to hear so much. At the sight of him I suddenly regained confidence.
 I took my hands from the machine.
+
 
 
 
@@ -1189,6 +1193,7 @@ had devised for the increase of population had succeeded too well,
 and their numbers had rather diminished than kept stationary.
 That would account for the abandoned ruins. Very simple was my
 explanation, and plausible enough--as most wrong theories are!
+
 
 
 
@@ -1796,6 +1801,7 @@ solemnly burned a match.
 
 
 
+
 VI
 
 
@@ -1994,6 +2000,7 @@ well-mouth somehow, and staggered out of the ruin into the blinding
 sunlight. I fell upon my face. Even the soil smelt sweet and clean.
 Then I remember Weena kissing my hands and ears, and the voices of
 others among the Eloi. Then, for a time, I was insensible.
+
 
 
 
@@ -2235,6 +2242,7 @@ building which my fancy had chosen as our dwelling.
 
 
 
+
 VIII
 
 
@@ -2465,6 +2473,7 @@ those bronze doors. Up to this, I had refrained from forcing them,
 largely because of the mystery on the other side. They had never
 impressed me as being very strong, and I hoped to find my bar of
 iron not altogether inadequate for the work.
+
 
 
 
@@ -2709,6 +2718,7 @@ matches. The box must have leaked before it was lost.
 
 
 
+
 X
 
 
@@ -2822,6 +2832,7 @@ the forest, I think, this last scramble.
 hands slipped from me. The darkness presently fell from my eyes.
 I found myself in the same grey light and tumult I have already
 described.
+
 
 
 
@@ -3002,6 +3013,7 @@ trailed down from it; it seemed black against the weltering
 blood-red water, and it was hopping fitfully about. Then I felt I
 was fainting. But a terrible dread of lying helpless in that remote
 and awful twilight sustained me while I clambered upon the saddle.
+
 
 
 
@@ -3208,6 +3220,7 @@ perhaps still stranger story, and the specimens and photographs he
 would bring with him. But I am beginning now to fear that I must
 wait a lifetime. The Time Traveller vanished three years ago. And,
 as everybody knows now, he has never returned.
+
 
 
 
