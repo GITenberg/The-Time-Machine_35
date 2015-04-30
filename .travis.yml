@@ -2,6 +2,6 @@ language: ruby
 before_install:
   - gem install asciidoctor
 script: 
-  - asciidoctor -d book 151.adoc -o rime.html
+  - asciidoctor -d book The-Time-Machine.asciidoc -o The-Time-Machine.html
 # addons:
 #     artifacts: true
