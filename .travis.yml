@@ -1,0 +1,7 @@
+language: ruby
+before_install:
+  - gem install asciidoctor
+script: 
+  - asciidoctor -d book 151.adoc -o rime.html
+# addons:
+#     artifacts: true
