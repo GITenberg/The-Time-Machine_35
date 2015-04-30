@@ -21,4 +21,3 @@ deploy:
   file: The-Time-Machine.epub
   on:
     repo: sethwoodworth/The-Time-Machine_35
-
