@@ -2,7 +2,7 @@ language: ruby
 sudo: required
 before_install:
 - gem install asciidoctor tilt
-- sudo apt-get install xsltproc epubcheck
+- sudo apt-get install xsltproc
 script:
   - git clone https://github.com/rdhyee/asciidoctor-htmlbook.git
   - asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/ -d book The-Time-Machine.asciidoc -o The-Time-Machine.html
@@ -11,7 +11,6 @@ script:
   - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
   - cp 8173_Priscilla+Parizeau_Twenty-Thousand+Leagues+Under+the+Sea_8173.png OEBPS/cover.png
   - zip -rX The-Time-Machine.epub mimetype OEBPS/ META-INF/
-  - epubcheck The-Time-Machine.epub
 branches:
   only:
     - master
