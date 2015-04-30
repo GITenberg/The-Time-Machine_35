@@ -9,7 +9,7 @@ script:
   - git clone https://github.com/rdhyee/HTMLBook
   - xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl The-Time-Machine.html
   - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
-  - cp 8173_Priscilla+Parizeau_Twenty-Thousand+Leagues+Under+the+Sea_8173.jpg OEBPS/cover.png
+  - cp 8173_Priscilla+Parizeau_Twenty-Thousand+Leagues+Under+the+Sea_8173.png OEBPS/cover.png
   - zip -rX The-Time-Machine.epub mimetype OEBPS/ META-INF/
 branches:
   only:
