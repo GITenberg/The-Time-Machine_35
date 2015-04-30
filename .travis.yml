@@ -15,6 +15,7 @@ branches:
   only:
     - master
 deploy:
+  skip_cleanup: true
   provider: releases
   api_key:
     secure: goBTVCh+r6LakSiKLgVl3scCjd1gtBUAvW/Zmi2fhedqhXZl3os4PhO1VgWAB9Rjk9r9Fcao3fSGJ6+aMXlhgm2UUeYzo/lV5gd/FvsDidmvYLW7g3q1jE4rg9lj1loZ6234jVmSiDzIzLtWBLr6N0SNhAInjmSLNnQEYZiNOyE=
