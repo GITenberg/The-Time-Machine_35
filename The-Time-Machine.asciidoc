@@ -7,7 +7,7 @@ v0.0.7
 = Copyright
 
 (LOGO?)
-GITENBERG 
+GITENBERG
 
 
 This edition of TITLE is maintained, archived, and curated as part of
@@ -17,7 +17,7 @@ the GITENBERG PROJECT.
 This work is in the Public domain.
 
 
-Read and Contribute 
+Read and Contribute
 URL
 
 
