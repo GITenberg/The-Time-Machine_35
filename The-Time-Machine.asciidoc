@@ -1,5 +1,7 @@
+= The Time Machine
+H. G. Wells
+v0.0.7
 :TOC:
-= The Time Machine, by H. G. Wells [1898]
 
 == I
 
