@@ -3,6 +3,28 @@ H. G. Wells
 v0.0.7
 :TOC:
 
+[colophon]
+= Copyright
+
+(LOGO?)
+GITENBERG 
+
+
+This edition of TITLE is maintained, archived, and curated as part of
+the GITENBERG PROJECT.
+
+
+This work is in the Public domain.
+
+
+Read and Contribute 
+URL
+
+
+DATE
+COMMIT HASH
+
+
 == I
 
 The Time Traveller (for so it will be convenient to speak of him) was
