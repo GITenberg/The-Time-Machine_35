@@ -4,26 +4,25 @@ v0.0.7
 :TOC:
 
 [colophon]
-= Copyright
+== Copyright
 
-(LOGO?)
-GITENBERG
-
-
-This edition of TITLE is maintained, archived, and curated as part of
+This edition of _The Time Machine_ is maintained, archived, and curated as part of
 the GITENBERG PROJECT.
 
+This work is in the public domain.
 
-This work is in the Public domain.
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/The-Time-Machine_35/issues
 
++
 
-Read and Contribute
-URL
+Cover provided by Recovering the Classics
 
+Artist: brixton doyle, (C) 2013
 
-DATE
-COMMIT HASH
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
 
+https://creativecommons.org/licenses/by-nc/4.0/
 
 == I
 
