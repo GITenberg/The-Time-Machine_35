@@ -1,5 +1,28 @@
+= The Time Machine
+H. G. Wells
+v0.0.9
 :TOC:
-= The Time Machine, by H. G. Wells [1898]
+
+[colophon]
+== Copyright
+
+This edition of _The Time Machine_ is maintained, archived, and curated as part of
+the GITENBERG PROJECT.
+
+This work is in the public domain.
+
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/The-Time-Machine_35/issues
+
++
+
+Cover provided by Recovering the Classics
+
+Artist: brixton doyle, (C) 2013
+
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
+
+https://creativecommons.org/licenses/by-nc/4.0/
 
 == I
 
