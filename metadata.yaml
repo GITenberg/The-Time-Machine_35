@@ -1,0 +1,28 @@
+_repo: The-Time-Machine_35
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+gutenberg_bookshelf:
+- Science Fiction
+- Movie Books
+gutenberg_issued: '2004-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Time travel -- Fiction'
+- '!lcsh:Dystopias -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Science fiction'
+title: The Time Machine
+url: http://www.gutenberg.org/ebooks/35
