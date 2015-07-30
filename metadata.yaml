@@ -20,9 +20,9 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Time travel -- Fiction'
 - '!lcsh:Dystopias -- Fiction'
-- '!lcc:PR'
+- '!lcsh:Time travel -- Fiction'
 - '!lcsh:Science fiction'
+- '!lcc:PR'
 title: The Time Machine
 url: http://www.gutenberg.org/ebooks/35
