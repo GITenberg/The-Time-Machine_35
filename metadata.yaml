@@ -1,4 +1,10 @@
 _repo: The-Time-Machine_35
+covers:
+- attribution: Jon Cain, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
