@@ -1,5 +1,5 @@
 _repo: The-Time-Machine_35
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Jon Cain, 2015
   cover_type: original
@@ -32,5 +32,6 @@ subjects:
 - '!lcsh: Dystopias -- Fiction'
 - '!lcc: PR'
 - '!lcsh: Science fiction'
+- GITenberg
 title: The Time Machine
 url: http://www.gutenberg.org/ebooks/35
